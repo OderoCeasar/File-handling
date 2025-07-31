@@ -1,3 +1,0 @@
-File handling and exception 
-Simple logic
-option 1
